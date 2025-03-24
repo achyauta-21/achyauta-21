@@ -1,7 +1,7 @@
 
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI3NDA1MjEsIm5iZiI6MTc0Mjc0MDIyMSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIzVDE0MzAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3OWU2ZWY4NTAwNGMzMWUwNTdlNjcyNzg1NTlmZGE3ZWM3NmU5NjAyZDIyMWFiYWJiYmRiMWYzMGJlMzEyZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UsmE7XrijefrDQWjQK0rLc3WNDzTWBSr8yYbUx7YRIY
 )
-<h1 align="center">Hi 👋, I'm Achyauta Nand</h1>
+<h1 align="center">Hi 👋, I'm Achyauta Nand Chaudhary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
